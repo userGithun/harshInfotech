@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export const BespokeIntroduction = () => {
   return (
     <section className="py-16 px-8 md:px-16 flex flex-col-reverse md:grid md:grid-cols-2 gap-8 items-center  max-w-7xl mx-auto">
-      <div className="space-y-6 -mt-44">
+      <div className="space-y-6 -mt-40">
         <h2 className="font-['Baskerville',_serif] font-medium ">TSS Experience</h2>
         <p className="font-light leading-relaxed">
           In a world dominated by mass production and fast-changing fashion cycles, bespoke tailoring stands as a rare art—an enduring celebration of individuality, precision, and craftsmanship. At TSS, we believe a suit is far more than a garment; it is an extension of your personality, a silent introduction before you speak, and a powerful symbol of the standards you hold for yourself.
